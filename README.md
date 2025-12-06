@@ -34,16 +34,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=emj4yy&theme=rogue&hide_border=true&line=ff79b0&point=ff9dc2" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-ff9ecb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-ff6fb1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Style-Creative%20%26%20Clean-f56fa1?style=for-the-badge" />
-</p>
-
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-ff9ecb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-ff6fb1?style=for-the-badge" />
