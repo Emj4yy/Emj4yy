@@ -1,4 +1,4 @@
-# 🌺 **Welcome to My GitHub! I'm Mayrielle Joy Latigo** 🌺  
+# 🌺✨ **Welcome to My GitHub! I'm Mayrielle Joy Latigo** ✨🌺  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecb,100:ff5e9e&height=230&section=header&text=Mayrielle%20Joy%20Latigo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
@@ -31,8 +31,8 @@
 ## 🎀 **My GitHub Activity**
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-rstahli.vercel.app/api?username=emj4yy&show_icons=true&theme=radical&hide_border=true&icon_color=ff9ecb&title_color=ff6fb1" height="170" />
-  <img src="https://github-readme-stats-git-master-rstahli.vercel.app/api/top-langs/?username=emj4yy&layout=compact&theme=radical&hide_border=true&title_color=ff6fb1" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=emj4yy&show_icons=true&theme=radical&hide_border=true&icon_color=ff9ecb&title_color=ff6fb1" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emj4yy&layout=compact&theme=radical&hide_border=true&title_color=ff6fb1" height="170" />
 </p>
 
 <p align="center">
@@ -41,13 +41,15 @@
 
 ---
 
+## 💗 **Animated Aesthetic Badges**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-ff9ecb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-ff6fb1?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Style-Creative%20%26%20Clean-f56fa1?style=for-the-badge" />
 </p>
 
-
+---
 
 ## 🦋 **Portfolio & Projects**
 
