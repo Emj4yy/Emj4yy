@@ -1,4 +1,4 @@
-# 🌺✨ **Welcome to My GitHub! I'm Mayrielle Joy Latigo** ✨🌺  
+# 🌺 **Welcome to My GitHub! I'm Mayrielle Joy Latigo** 🌺  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecb,100:ff5e9e&height=230&section=header&text=Mayrielle%20Joy%20Latigo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
