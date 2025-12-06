@@ -41,8 +41,6 @@
 
 ---
 
-## 💗 **Animated Aesthetic Badges**
-
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-ff9ecb?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Focus-Software%20Engineering-ff6fb1?style=for-the-badge" />
