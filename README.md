@@ -1,40 +1,84 @@
-# Hi there 👋 I'm Mayrielle Joy Latigo  
+# 🌺✨ **Welcome to My GitHub! I'm Mayrielle Joy Latigo** ✨🌺  
 
-🎓 An Information Technology student at **Mapúa University** passionate about coding, design, and continuous learning.  
-🚀 Exploring projects that combine development and creativity.  
-🌱 Currently learning advanced concepts in software engineering and UI/UX design.  
-🤝 Open to collaborating on web development and software projects.  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9ecb,100:ff5e9e&height=230&section=header&text=Mayrielle%20Joy%20Latigo&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40" />
+</p>
 
----
-
-## 🔧 Skills & Tools  
-
-<p align="left">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>  
-
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40"/>  
-
-  <!-- Design -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>  
-
-  <!-- Version Control -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=FF6FB1&width=700&height=80&lines=Information+Technology+Student+%7C+Developer+%7C+Designer;Turning+Ideas+Into+Interactive+Experiences+💡;Passionate+About+Code%2C+Design%2C+and+Creativity+✨" />
 </p>
 
 ---
 
-## 📈 GitHub Stats  
-- 🌐 Check out my [Personal Portfolio Website](https://emj4yy.github.io/portfolio/)
+## 🌸 **About Me**
+
+🎓 Third-year **IT student at Mapúa University**  
+🧠 Passionate about **software development**, **UI/UX design**, and **creative coding**  
+🎨 Loves designing clean interfaces and visually pleasing experiences  
+⚙️ Currently learning **software engineering**, advanced Java, and UX principles  
+🤝 Open to collaborations, school projects, freelance inquiries, and portfolio reviews  
 
 ---
 
-## 📫 Connect with Me  
-- 💼 [LinkedIn](http://linkedin.com/in/mayrielle-joy-latigo-979012379)  
-- ✉️ Email: *mayriellej@gmail.com*  
+## 🌈 **Tech Stack – My Digital Palette**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css,oracle,git,github,figma" />
+</p>
+
+---
+
+## 🎀 **My GitHub Activity**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=emj4yy&show_icons=true&theme=radical&hide_border=true&icon_color=ff9ecb&title_color=ff6fb1" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emj4yy&layout=compact&theme=radical&hide_border=true&title_color=ff6fb1" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emj4yy&theme=rogue&hide_border=true&line=ff79b0&point=ff9dc2" />
+</p>
+
+---
+
+## 💗 **Animated Aesthetic Badges**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Always%20Learning-ff9ecb?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-ff6fb1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Style-Creative%20%26%20Clean-f56fa1?style=for-the-badge" />
+</p>
+
+---
+
+## 🦋 **Portfolio & Projects**
+
+✨ Check out my full portfolio here:  
+👉 **https://emj4yy.github.io/portfolio/**  
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=ff9ecb&height=3" />
+</p>
+
+---
+
+## 📬 **Let’s Connect!**
+
+<p align="center">
+  <a href="http://linkedin.com/in/mayrielle-joy-latigo-979012379">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+  </a>
+  <a href="mailto:mayriellej@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="50" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff5e9e,100:ff9ecb&height=200&section=footer" />
+</p>
+
+---
+
+## 🌷 **"Design with purpose. Code with passion. Grow with curiosity."**
