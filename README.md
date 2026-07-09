@@ -107,11 +107,6 @@ open_to: [Collaborations, Internships, Freelance Work, Portfolio Reviews]
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emj4yy&show_icons=true&hide_border=true&title_color=d62839&icon_color=ff4d4d&text_color=444" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emj4yy&layout=compact&hide_border=true&title_color=d62839&text_color=444" height="160" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=emj4yy&hide_border=true&ring=d62839&fire=ff4d4d&currStreakLabel=d62839" height="160" />
 </p>
 
