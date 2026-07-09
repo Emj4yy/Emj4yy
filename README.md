@@ -29,7 +29,6 @@ education: BS Information Technology, Mapúa University (2023 - Present)
 specialization: Cybersecurity
 honors: Dean's Lister (2023 - 2026)
 experience: Software QA Intern @ EastWest Banking Corporation
-interests: [Cybersecurity, Software QA, Web Development, UI/UX Design]
 open_to: [Collaborations, Internships, Freelance Work, Portfolio Reviews]
 ```
 
