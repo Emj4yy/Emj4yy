@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:d62839,100:ff4d4d&height=230&section=header&text=Mayrielle%20Joy%20Latigo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%C2%B7%20Developer%20%C2%B7%20Designer&descSize=18&descAlignY=58" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b0000,50:d62839,100:ff4d4d&height=230&section=header&text=Mayrielle%20Joy%20Latigo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=IT%20Student%20%C2%B7%20Cybersecurity%20%C2%B7%20Software%20QA&descSize=18&descAlignY=58" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=D62839&center=true&vCenter=true&width=650&height=60&lines=Information+Technology+Student+at+Map%C3%BAa+University;Turning+Ideas+Into+Interactive+Experiences;Code+%C2%B7+Design+%C2%B7+Creativity" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&color=D62839&center=true&vCenter=true&width=700&height=60&lines=BS+Information+Technology+%40+Map%C3%BAa+University;Cybersecurity+Specialization+%C2%B7+Dean's+Lister;Software+QA+%C2%B7+Web+Development+%C2%B7+VAPT" />
 </p>
 
 <p align="center">
@@ -20,40 +20,88 @@
 
 ## 👩‍💻 About Me
 
-I am a third-year Information Technology student at **Mapúa University** with a passion for building software that is both functional and beautiful. I work at the intersection of development and design, crafting clean interfaces and thoughtful user experiences.
+Information Technology student at **Mapúa University** specializing in **Cybersecurity**, with hands-on experience in software quality assurance, web development, and vulnerability assessment. Detail-oriented and committed to delivering high-quality results through analytical thinking, creativity, and persistence.
 
 ```yaml
-name: Mayrielle Joy Latigo
-education: BS Information Technology, Mapúa University
-interests: [Software Development, UI/UX Design, Creative Coding]
-currently_learning: [Software Engineering, Advanced Java, UX Principles]
-open_to: [Collaborations, School Projects, Freelance Work, Portfolio Reviews]
+name: Mayrielle Joy M. Latigo
+location: Taguig City, Metro Manila, Philippines
+education: BS Information Technology, Mapúa University (2023 - Present)
+specialization: Cybersecurity
+honors: Dean's Lister (2023 - 2026)
+experience: Software QA Intern @ EastWest Banking Corporation
+interests: [Cybersecurity, Software QA, Web Development, UI/UX Design]
+open_to: [Collaborations, Internships, Freelance Work, Portfolio Reviews]
 ```
 
-- 🎓 Third-year IT student at **Mapúa University**
-- 💻 Focused on **software development**, **UI/UX design**, and **creative coding**
-- 🎨 Enjoy designing clean, intuitive, and visually engaging interfaces
-- 🚀 Goal: to grow as a well-rounded software engineer and designer
+---
+
+## 💼 Experience
+
+**Software Quality Assurance Intern — EastWest Banking Corporation** *(Dec 2025 – Apr 2026)*
+
+- 🏦 Performed manual testing of banking applications on the **T24 core banking system**
+- 📝 Created, executed, and documented test cases and scenarios to identify defects
+- 🤝 Collaborated with developers, business analysts, and stakeholders to validate enhancements
+- 🐞 Assisted in defect tracking, test reporting, and QA activities across the SDLC
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🎮 **EduQuest** *(Thesis)* | Gamified learning application for children with special educational needs, built in collaboration with educators and therapists | Requirements Analysis · System Design · Testing |
+| 🏠 **Tenant-Landlord Platform** | Web-based property listing and tenant management system with an admin dashboard | PHP · MySQL · HTML/CSS/JS |
+| 🔐 **OWASP Juice Shop VAPT** | Penetration testing lab — identified SQLi, XSS, and Broken Authentication vulnerabilities with remediation recommendations | Burp Suite · OWASP ZAP · Docker |
+
+<p align="center">
+  <a href="https://emj4yy.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/🌐%20View%20My%20Full%20Portfolio-emj4yy.github.io-d62839?style=for-the-badge" />
+  </a>
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages & Core
+### Languages & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,php,js,html,css,mysql,oracle" />
 </p>
 
-### Tools & Platforms
+### Development & Security Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=oracle,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse,git,github,figma,docker" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-Always%20Learning-d62839?style=flat-square" />
-  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-b91d2e?style=flat-square" />
-  <img src="https://img.shields.io/badge/Style-Creative%20%26%20Clean-ff4d4d?style=flat-square" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-d62839?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP%20ZAP-b91d2e?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL%20Workbench-8b0000?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NetBeans-ff4d4d?style=flat-square&logo=apachenetbeanside&logoColor=white" />
 </p>
+
+**Core Competencies:** Cybersecurity · Vulnerability Assessment · Web Application Testing · Software QA · Problem-Solving · Analytical Thinking
+
+---
+
+## 📜 Certifications
+
+- ☁️ **Oracle** — Certified DevOps Professional, Analytics Cloud Professional, OCI Foundations Associate, Data Platform Foundations Associate, AI Foundations Associate *(Oct 2025)*
+- 🌐 **CCNA** — Enterprise Networking, Security, and Automation *(Aug 2025)*
+- 🔒 **Google Cybersecurity Specialization** *(Jun 2025)*
+- 📈 **Lean Six Sigma White Belt** *(Oct 2025)*
+
+---
+
+## 🌏 International Experience
+
+**Student Global Experience — Tokyo, Osaka & Kyoto, Japan** *(Jun 2026)*
+
+- 🛰️ Attended **INTEROP Tokyo 2026** — networking, cybersecurity, and enterprise technologies
+- 🎓 Visited **Chiba University** and attended student research presentations
+- 🔬 Explored **Miraikan** and **Brother Industries**, studying emerging tech and engineering innovation
+- 🤝 Strengthened cross-cultural communication, adaptability, and collaboration skills
 
 ---
 
@@ -74,33 +122,7 @@ open_to: [Collaborations, School Projects, Freelance Work, Portfolio Reviews]
 
 ---
 
-## 🚀 Featured Work
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🌐 **Personal Portfolio** | My design and development showcase — case studies, projects, and experiments | HTML · CSS · JS |
-| 📁 **More Projects** | Explore my repositories for coursework, prototypes, and creative builds | Java · C++ · Figma |
-
-<p align="center">
-  <a href="https://emj4yy.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/🌐%20View%20My%20Full%20Portfolio-emj4yy.github.io-d62839?style=for-the-badge" />
-  </a>
-</p>
-
----
-
-## 🎯 Current Goals
-
-- 📖 Master **software engineering** fundamentals and design patterns
-- ☕ Level up in **advanced Java** development
-- 🧩 Deepen my understanding of **UX research and design principles**
-- 🌱 Contribute to more collaborative and open projects
-
----
-
 ## 📬 Let's Connect
-
-I'm always happy to talk about projects, design, or opportunities to collaborate.
 
 <p align="center">
   <a href="http://linkedin.com/in/mayrielle-joy-latigo-979012379">
