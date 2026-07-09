@@ -131,7 +131,7 @@ open_to: [Collaborations, Internships, Freelance Work, Portfolio Reviews]
 ---
 
 <p align="center">
-  <i>"Design with purpose. Code with passion. Grow with curiosity."</i>
+  <i>"IT isn't about having all the answers, it's about mastering the process of finding them.."</i>
 </p>
 
 <p align="center">
