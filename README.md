@@ -129,7 +129,7 @@ open_to: [Full-Time Roles, Collaborations, Freelance Work, Portfolio Reviews]
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=emj4yy&hide_border=true&bg_color=ffffff&color=8b0000&line=d62839&point=ff4d4d&area=true&area_color=ffe5e5" />
+  <img src="https://ghchart.rshah.org/d62839/emj4yy" alt="Mayrielle's GitHub contribution chart" />
 </p>
 
 ---
